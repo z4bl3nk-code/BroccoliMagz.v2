@@ -1,2 +1,4 @@
-# BroccoliMagz.v2
-Broccoli Magz v2
+# Broccoli Magz
+Broccoli Magz
+By Waroeng Digital
+waroeng.digital77@gmail.com
