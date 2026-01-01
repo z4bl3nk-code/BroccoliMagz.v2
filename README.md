@@ -1,4 +1,4 @@
 # Broccoli Magz
-Broccoli Magz
-By Waroeng Digital
+Broccoli Magz <br>
+By Waroeng Digital <br>
 waroeng.digital77@gmail.com
